@@ -1,8 +1,8 @@
-# Gerayo 🚍
+# NaviRayo 🚍
 ## Real-time Bus Tracking | Bus Schedules | Online Ticketing
-**Gerayo** is a software solution designed to revolutionize the public transportation system in Rwanda. This platform provides real-time tracking of buses, access to detailed bus schedules, and the ability to purchase tickets conveniently online.  
+**NaviRayo** is a software solution designed to revolutionize the public transportation system in Rwanda. This platform provides real-time tracking of buses, access to detailed bus schedules, and the ability to purchase tickets conveniently online.  
   
-With Gerayo, passengers can view real-time updates on bus locations, schedule their trips with precise time tables, and purchase tickets from the comfort of their mobile devices. Our mission is to bridge the gap in public transport challenges by delivering an innovative solution that enhances the commuting experience in Rwanda.
+With Navirayo, passengers can view real-time updates on bus locations, schedule their trips with precise time tables, and purchase tickets from the comfort of their mobile devices. Our mission is to bridge the gap in public transport challenges by delivering an innovative solution that enhances the commuting experience in Rwanda.
 
 > **Note:** This is currently a **medium-fidelity prototype** showcasing a proposed solution for public transportation in Rwanda. The data presented, including bus schedules and tracking, are **not yet dynamic in real-time**, they are all **mock data**. This prototype is intended to provide a glimpse into the full solution, and live data integrations will be implemented in future phases. 
 # Features  
